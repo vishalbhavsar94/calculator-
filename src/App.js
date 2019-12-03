@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Numpad from './component/numpad'
-//import Result from './component/result'
 import {Container,Row,Col,Card,CardBody,CardHeader,Input} from 'reactstrap'
 
 export default class App extends Component {
